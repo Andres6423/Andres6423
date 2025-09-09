@@ -57,19 +57,6 @@ When I close the editor... I open the console: **I love video games**. If a bug 
 
 When I’m not coding, I enjoy learning about aviation ✈️ or playing games to relax and have a good time.  
 
----
-
-## 📊 A Touch of Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=transparent" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=transparent" alt="top langs" />
-</p>
 
 ---
 
